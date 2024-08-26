@@ -18,3 +18,5 @@ grafana/promtail:2.8.2
 portainer/portainer-ce:2.18.3
 rancher/rancher:v2.7.5
 grafana/grafana
+postgres:latest
+mcr.microsoft.com/dotnet/aspnet:8.0
