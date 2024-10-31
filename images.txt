@@ -1,1 +1,1 @@
-python:3.12.0
+portainer/portainer-ce:2.21.4
