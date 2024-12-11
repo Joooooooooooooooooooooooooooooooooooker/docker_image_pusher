@@ -1,1 +1,1 @@
-zeronews/zeronews:latest
+probezy/cpolar
