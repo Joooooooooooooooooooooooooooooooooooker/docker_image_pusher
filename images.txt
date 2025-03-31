@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/sdk:8.0
+emqx/neuronex:3.4
