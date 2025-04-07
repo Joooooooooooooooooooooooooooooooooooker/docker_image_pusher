@@ -1,1 +1,1 @@
-emqx/neuronex:3.4
+emqx/emqx:5.8.6
