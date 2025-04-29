@@ -1,1 +1,1 @@
-emqx/emqx:5.8.6
+--platform=linux/arm64 emqx/neuronex:3.6.0-alpha.4-ai-arm64
