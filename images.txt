@@ -13,3 +13,5 @@
 --platform=linux/arm64 node:23.11.0
 --platform=linux/arm64 rabbitmq:3.13.7-management-alpine
 --platform=linux/arm64 emqx/emqx:5.8.6
+bellsoft/liberica-openjdk-debian:21
+bellsoft/liberica-openjdk-debian:17
