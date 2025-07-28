@@ -1,1 +1,22 @@
+--platform=linux/arm64 emqx/neuronex:3.6.0-alpha.4-ai-arm64
+--platform=linux/arm64 redis:8.0-rc1
+--platform=linux/arm64 nginx:1.28.0
+--platform=linux/arm64 bellsoft/liberica-openjdk-debian:21
+--platform=linux/arm64 bellsoft/liberica-openjdk-debian:17
+--platform=linux/arm64 postgres:17.4
+--platform=linux/arm64 mysql:8
+--platform=linux/arm64 portainer/portainer-ce:2.29.2
+--platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
+--platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:8.0
+--platform=linux/arm64 mcr.microsoft.com/dotnet/sdk:6.0
+--platform=linux/arm64 mcr.microsoft.com/dotnet/sdk:8.0
+--platform=linux/arm64 node:23.11.0
+--platform=linux/arm64 rabbitmq:3.13.7-management-alpine
+--platform=linux/arm64 emqx/emqx:5.8.6
+bellsoft/liberica-openjdk-debian:21
+bellsoft/liberica-openjdk-debian:17
+hub.zentao.net/app/zentao:latest
+bitnami/mariadb:10.6
+bitnami/redis:6.2
+python:3.9-slim
 python:3.10-slim
