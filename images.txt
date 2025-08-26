@@ -20,3 +20,4 @@ bitnami/mariadb:10.6
 bitnami/redis:6.2
 python:3.9-slim
 python:3.10-slim
+eclipse-mosquitto:2.0.22
