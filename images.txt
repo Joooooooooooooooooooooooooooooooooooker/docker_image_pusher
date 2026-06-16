@@ -24,3 +24,6 @@ python:3.12-slim
 eclipse-mosquitto:2.0.22
 tdengine/tsdb:3.3.7.5
 tdengine/tsdb-ee:3.3.7.5
+mysql:8
+rabbitmq:3.10.6-management
+rustfs/rustfs:latest
